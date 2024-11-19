@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="container">
         <div className="row">
           <div className="col-12 col-md-4 order-md-2 mb-4">
-            <img src="src/assets/kunal1.jpg" alt="Kunal" style={{ height: '300px', borderRadius: '50%' }} />
+            <img src="src/assets/Kunal1.jpg" alt="Kunal" style={{ height: '300px', borderRadius: '50%' }} />
           </div>
           <div className="col-12 col-md-8 order-md-1">
             <p>Hello,</p>
