@@ -1,4 +1,5 @@
 import './Hero.css'
+import Kunal1 from './assets/Kunal1.jpg'
 const Hero = () => {
   return (
     <>
