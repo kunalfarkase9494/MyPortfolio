@@ -10,7 +10,7 @@ function Contact() {
         <div className='container'>
             <h1 className='text-center mb-4'>Get In Touch</h1>
         </div>
-        <div className='contact-form-container shadow-sm col-lg-8 mx-lg-auto bg-white p-3 p-lg-5'>
+        <div className='contact-form-container shadow-sm col-lg-8 mx-lg-auto bg-white p-2 p-lg-5'>
             <form action="#" onSubmit={(e)=>{e.preventDefault()}} method='post'>
             <div className='row '>    
                 <div class="col-md-6 col-sm-12 mb-3">
