@@ -1,0 +1,14 @@
+.contact-section{
+    padding: 50px;
+    background-color:#f5eef8;
+}
+a{
+    text-decoration: none;
+}
+
+.icon:hover{
+    font-size: large;
+    background-color: #ebedef;
+    padding: 5px;
+    border-radius: 30%;
+}

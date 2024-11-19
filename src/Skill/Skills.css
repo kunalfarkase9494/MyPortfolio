@@ -1,0 +1,23 @@
+.skills-section{
+    background-color:#eaf2f8;
+    padding: 50px ;
+}
+.s-box{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+.icon-background{
+    background-color: #167ae4;
+    padding: 8px 8px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: x-large;
+}
+.ulist{
+    list-style-type: none;
+}
+.s-box:hover{
+    box-shadow: 0px 4px 6px gray;
+    transform: scale(1.05);
+}
