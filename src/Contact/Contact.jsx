@@ -18,7 +18,7 @@ function Contact() {
     
       const handleSubmit = (e) => {
         e.preventDefault();
-        console.log('Form submitted:', formData);
+        alert("Form Submitted Successfully");
     
         // Clear the form fields
         setFormData({
