@@ -12,8 +12,8 @@ const Hero = () => {
             <img src={kunalImage} alt="Kunal" style={{ height: '300px', borderRadius: '50%' }} />
           </div>
           <div className="col-12 col-md-8 order-md-1">
-            <p>Hello,</p>
-            <h3>I'm Kunal</h3>
+            <p id='hello'>Hello,</p>
+            <h3>I'm <strong>Kunal</strong></h3>
             <h2>Java Full Stack Developer</h2>
             <p>
               Full stack Java Developer with proficiency in Java, Hibernate, Spring Framework, Spring Boot, 
