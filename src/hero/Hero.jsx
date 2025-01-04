@@ -1,6 +1,6 @@
 import './Hero.css'
 import kunalImage from '../assets/Kunal1.jpg'
-import kunalResume from '../assets/Kunal_JaavaFSD.pdf'
+import kunalResume from '../assets/Kunal_JavaFSD.pdf'
 
 const Hero = () => {
   return (
