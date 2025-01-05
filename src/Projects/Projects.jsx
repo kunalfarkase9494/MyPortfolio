@@ -7,6 +7,7 @@ function Projects() {
   useEffect(() => {
       AOS.init({ duration: 1500 });
     }, []);
+    
   return (
     <>
     <div className="project-section" id="projects" >

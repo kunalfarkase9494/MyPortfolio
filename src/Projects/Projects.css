@@ -1,6 +1,7 @@
 .project-section{
     background-color: #e7f2f2 ;
     padding-top: 50px;
+    overflow: hidden;
 }
 .heading{
     padding-bottom: 50px;

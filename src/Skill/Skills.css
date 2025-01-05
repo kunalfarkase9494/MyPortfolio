@@ -1,4 +1,5 @@
 .skills-section{
+    overflow: hidden;
     background-color:#eaf2f8;
     padding: 50px ;
 }

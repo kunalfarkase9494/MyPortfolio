@@ -1,6 +1,7 @@
 .contact-section{
     padding: 50px;
     background-color:#f5eef8;
+    overflow: hidden;
 }
 a{
     text-decoration: none;

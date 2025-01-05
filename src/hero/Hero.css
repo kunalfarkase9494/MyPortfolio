@@ -1,16 +1,24 @@
 .hero-section{
+    overflow: hidden;
     padding-top: 100px;
     padding-bottom: 100px;
-    background-color:#dbe9f1;
+    background-color: #dbe9f1;
+    width: 100%;
 }
 strong{
     color:#af7ac5;
     font-family:serif;
 }
 h2{
-    font-family: Georgia;
     text-decoration: underline;
 }
 #hello{
     font-family: georgia;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
