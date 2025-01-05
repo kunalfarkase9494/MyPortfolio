@@ -3,6 +3,7 @@ import kunalIamge from '../assets/Kunal1.jpg';
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import kunalResume from '../assets/Kunal_Resume.pdf';
 
 
 const Hero = () => {
@@ -30,7 +31,7 @@ const Hero = () => {
               efficient web applications.
             </p>
             <br />
-            <a href="src/assets/Kunal_Resume.pdf" download="Kunal's_Resume.pdf">
+            <a href={kunalResume} download="Kunal_Resume.pdf">
               <button className="btn btn-primary">Download Resume</button>
             </a>
           </div>

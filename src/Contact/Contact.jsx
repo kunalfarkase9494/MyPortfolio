@@ -1,4 +1,3 @@
-
 import React, { useState,useEffect } from 'react'
 import './Contact.css';
 import AOS from "aos";
