@@ -23,7 +23,7 @@ const Hero = () => {
               <h3>I'm <strong>Kunal</strong></h3>
               <h2>Java Full Stack Developer</h2>
               <p>
-                Full stack Java Developer with proficiency in Java, Hibernate, Spring Framework, Spring Boot,
+                I am passionate full stack Java developer with proficiency in Java, Hibernate, Spring Framework, Spring Boot,
                 and RESTful APIs, and experience in front-end technologies like HTML, CSS, JavaScript, ReactJS and Angular.
                 Skilled in database management (MySQL, MongoDB). Quick learner with a passion for building scalable,
                 efficient web applications.
