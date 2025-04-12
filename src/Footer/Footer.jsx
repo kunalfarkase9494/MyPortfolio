@@ -5,7 +5,7 @@ function Footer() {
   return (
     <>
         <div className='text-bg-dark'>
-            <p className='text-center'>2024 Kunal. All Rights Reserved.</p>
+            <p className='text-center'>2025 Kunal. All Rights Reserved.</p>
         </div>
     </>
   )
