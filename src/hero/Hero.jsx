@@ -20,7 +20,7 @@ const Hero = () => {
               <img
                 src={kunalIamge}
                 alt="Kunal"
-                style={{ height: "300px", borderRadius: "50%" }}
+                style={{ height: "300px", borderRadius: "40%" }}
                 data-aos="zoom-in"
               />
             </div>
