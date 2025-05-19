@@ -17,12 +17,13 @@ const Hero = () => {
         <div className="container">
           <div className="row">
             <div className="col-12 col-md-4 order-md-2 mb-4">
-              <img
-                src={kunalIamge}
-                alt="Kunal"
-                style={{ height: "300px", borderRadius: "40%" }}
-                data-aos="zoom-in"
-              />
+              <div className="animated-bg" data-aos="zoom-in">
+                <img
+                  src={kunalIamge}
+                  alt="Kunal"
+                  style={{ height: "300px", borderRadius: "40%" }}
+                />
+              </div>
             </div>
             <div className="col-12 col-md-8 order-md-1">
               <p id="hello">Hello,</p>
@@ -30,7 +31,8 @@ const Hero = () => {
                 I'm <strong>Kunal</strong>
               </h3>
               <AnimatedText />
-              <p>
+              <p className="description"  data-aos="fade-right" data-aos-duration="1000">
+                I am a passionate and dedicated
                 Versatile Software Developer skilled in Full Stack Java
                 Development and cross-platform app development using Flutter.
                 Proficient in Java, Spring Boot, RESTful APIs, and front-end
