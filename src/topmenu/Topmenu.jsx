@@ -3,7 +3,7 @@
 const Topmenu = () => {
   return (
     <>
-    <div className="">
+    <div data-aos="slide-down" >
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
   <div class="container">
     <a class="navbar-brand" href="#">My Portfolio</a>
