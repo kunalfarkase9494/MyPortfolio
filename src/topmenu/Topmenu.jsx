@@ -11,17 +11,17 @@ const Topmenu = () => {
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto gap-5">
-        <li class="nav-item">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item me-lg-4">
           <a href="#hero" class="nav-link active" aria-current="page">About me</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item me-lg-4">
           <a href="#projects" class="nav-link">Projects</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item me-lg-4">
           <a href="#skills" class="nav-link" >Skills</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item me-lg-4">
           <a href="#contact" class="nav-link" >Contact</a>
         </li>
       </ul>
