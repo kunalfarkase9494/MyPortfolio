@@ -11,7 +11,7 @@ const AnimatedText = () => {
     }}>
       <TypeAnimation
         sequence={[
-          "Java Full Stack Developer", 2000,
+          "Java Developer", 2000,
           "Flutter Developer", 2000,
           "Frontend Enthusiast", 2000,
           "Backend API Developer", 2000
