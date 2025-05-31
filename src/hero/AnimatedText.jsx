@@ -3,7 +3,7 @@ import { TypeAnimation } from 'react-type-animation';
 const AnimatedText = () => {
   return (
     <h2 style={{ 
-         fontSize: "2rem",
+    fontSize: "2rem",
     fontWeight: "bold",
     background: "linear-gradient(70deg,rgb(188, 120, 78),rgb(102, 76, 188),rgb(142, 59, 181))",
     WebkitBackgroundClip: "text",

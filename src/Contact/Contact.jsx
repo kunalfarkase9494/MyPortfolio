@@ -51,7 +51,7 @@ function Contact() {
     <>
       <div className="contact-section" id="contact" data-aos="flip-down">
         <div className="container-fluid">
-          <h1 className="text-center mb-6">Get In Touch</h1>
+          <h1 className="text-center mb-6 getInTouch">Get In Touch</h1>
         </div>
         <div className="contact-form-container shadow-sm col-lg-8 mx-lg-auto bg-white p-3 p-lg-5">
           <form onSubmit={handleSubmit}>

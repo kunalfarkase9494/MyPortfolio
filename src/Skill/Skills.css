@@ -1,7 +1,11 @@
 .skills-section{
     overflow: hidden;
-    background-color:#eaf2f8;
+     background-color:#262f34;
     padding: 50px ;
+}
+.heading1{
+    padding-bottom: 50px;
+    color: #c1cedc;
 }
 .s-box{
     background-color: #fff;
@@ -9,6 +13,11 @@
     border-radius: 5px;
      box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2), 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s ease;
+}
+.skillPara{
+    color: #5b4c6f;
+    font-size: 18px;
+    padding: 10px 0;
 }
 .icon-background{
     background-color: #167ae4;

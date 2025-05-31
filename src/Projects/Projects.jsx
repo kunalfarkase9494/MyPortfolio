@@ -17,6 +17,7 @@ function Projects() {
           <div class="col-md-4 col-sm-12 mb-3">
           <div className="box" data-aos="zoom-in">
                 <h4>Voting Application</h4>
+                <hr />
                 <p>Developed a secure voting application using Spring Framework and Java, enabling users to
                 cast and manage votes.
                 </p>
@@ -27,6 +28,7 @@ function Projects() {
            
             <div className="box" data-aos="zoom-in">
                 <h4>E-Commerce Website</h4>
+                 <hr />
                 <p>Developed a robust e-commerce website using Spring Boot and Java to handle product
                 management, order processing, and user authentication.
                 </p>
@@ -36,6 +38,7 @@ function Projects() {
           <div class="col-md-4 col-sm-12 mb-3">
             <div className="box" data-aos="zoom-in">
                 <h4>To-Do Application</h4>
+                <hr />
                 <p>Developed a dynamic to-do application using Java, JDBC, and Http Servlet to manage task
                 creation, updating, and deletion.
                 </p>

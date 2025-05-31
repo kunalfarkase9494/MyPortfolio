@@ -11,7 +11,7 @@ const Topmenu = () => {
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto">
+      <ul class="navbar-nav ms-auto gap-5">
         <li class="nav-item">
           <a href="#hero" class="nav-link active" aria-current="page">About me</a>
         </li>

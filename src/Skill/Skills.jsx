@@ -12,17 +12,16 @@ function Skills() {
     <>
     <div className='skills-section' id='skills'>
     <div class="container text-center">
-        <h1 className="heading">Skills</h1>
+        <h1 className="heading1">Skills</h1>
         <div class="row">
           <div class="col-md-4 col-sm-12 mb-3">
           <div className="s-box" data-aos="flip-left">
             <span className='icon-background'><i class="bi bi-display"></i></span>
             <div className='mt-3'>
               <h4>Frontend</h4>
-              <ul className='ulist'>
-                <li>HTML, CSS, JavaScript, Bootstrap</li>
-                <li>ReactJS and Angular</li>
-              </ul>
+             <p class='px-3 skillPara'>
+                HTML, CSS, JavaScript, Bootstrap,Flutter, ReactJS and Angular
+              </p>
             </div>
                 
             </div>
@@ -33,10 +32,8 @@ function Skills() {
             <span className='icon-background'><i class="bi bi-server"></i></span>
             <div className='mt-3'>
               <h4>Backend</h4>
-              <ul className='ulist'>
-                <li>Java(JSE/JEE), JDBC, Hibernate(ORM)</li>
-                <li>Spring Frameworks and Spring Boot</li>
-              </ul>
+              <p className='px-3 skillPara'>Java, Spring Boot, RESTful APIs, JDBC, Hibernate(ORM), Spring Frameworks
+              </p>
             </div>
                
                 
@@ -47,12 +44,10 @@ function Skills() {
             <span className='icon-background'><i class="bi bi-box-arrow-in-right"></i></span>
             <div className='mt-3'>
               <h4>Others</h4>
-              <ul className='ulist'>
-                <li>C-programming, SQL</li>
-                <li>MongoDB, MySQL and GitHub</li>
-              </ul>
+              <p className='px-3 skillPara'>C-programming, SQL, Firebase, MongoDB
+                MySQL,GitHub and Opreating System
+              </p>
             </div>
-  
             </div>
           </div>
         </div>

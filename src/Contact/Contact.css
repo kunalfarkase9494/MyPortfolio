@@ -3,6 +3,10 @@
     background-color:#f5eef8;
     overflow: hidden;
 }
+.getInTouch{
+    padding-bottom: 50px;
+    color: #5b4c6f;
+}
 a{
     text-decoration: none;
 }
